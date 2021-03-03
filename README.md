@@ -7,7 +7,7 @@ A template processor (also known as a template engine or template parser) is sof
 
 Template engines include 
 
-1)variables and functions
-2)text replacement
-3)file inclusion (or transclusion)
-4)conditional evaluation and loops
+1) Variables and Functions
+2) Text replacement
+3) File inclusion (or transclusion)
+4) Conditional evaluation and loops
